@@ -25,4 +25,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 [![Cap Table](https://img.shields.io/badge/Cap%20Table-purple.svg)]() 
 [![Fundraising](https://img.shields.io/badge/Fundraising-red.svg)]() 
 [![Seed Funding](https://img.shields.io/badge/Seed%20Funding-lightblue.svg)]() 
-[![Angel Investors](https://img.shields.io/badge/Angel%20Investors-gray.svg)]()  
