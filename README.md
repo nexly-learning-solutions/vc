@@ -1,18 +1,18 @@
-# Venture Capital & Startup Funding Resources
+## Venture Capital & Startup Funding Resources
 
 This resource is designed to provide founders with essential tools, insights, and guidance for navigating the landscape of venture capital and startup funding. Whether you’re preparing to fundraise, managing your cap table, or seeking advice on investor relations, this repository offers valuable links and references to help you succeed.
 
-## How to Use This Repository
+### How to Use This Repository
 
 - **Explore the Topics**: Click on any badge above to explore resources related to that topic.
 - **Leverage the Insights**: Use the provided links and references to gather information and make informed decisions.
 - **Stay Updated**: This repository is continuously updated with new resources, so check back often for the latest insights.
 
-## Contribution
+### Contribution
 
 We welcome contributions to this repository. If you have resources, links, or insights that would benefit founders, please open an issue or submit a pull request.
 
-## License
+### License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
