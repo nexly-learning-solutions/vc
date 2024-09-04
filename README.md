@@ -14,6 +14,7 @@ This resource is designed to provide founders with essential tools, insights, an
     * **Pitch Deck Experts:** [https://www.pitchdeckexperts.app/](https://www.pitchdeckexperts.app/)
     * **Crunchbase:** [https://www.crunchbase.com/](https://www.crunchbase.com/)
     * **CB Insights:** [https://www.cbinsights.com/](https://www.cbinsights.com/)
+    * **Open VC:** [https://www.openvc.app/](https://www.openvc.app/)
 * **Startup Funding:**
     * **AngelList:** [https://angel.co/](https://angel.co/)
     * **SeedInvest:** [https://www.seedinvest.com/](https://www.seedinvest.com/)
