@@ -8,6 +8,26 @@ This resource is designed to provide founders with essential tools, insights, an
 - **Leverage the Insights**: Use the provided links and references to gather information and make informed decisions.
 - **Stay Updated**: This repository is continuously updated with new resources, so check back often for the latest insights.
 
+### Links:
+
+* **Venture Capital:** 
+    * **Pitch Deck Experts:** [https://www.pitchdeckexperts.app/](https://www.pitchdeckexperts.app/)
+    * **Crunchbase:** [https://www.crunchbase.com/](https://www.crunchbase.com/)
+    * **CB Insights:** [https://www.cbinsights.com/](https://www.cbinsights.com/)
+* **Startup Funding:**
+    * **AngelList:** [https://angel.co/](https://angel.co/)
+    * **SeedInvest:** [https://www.seedinvest.com/](https://www.seedinvest.com/)
+    * **Kickstarter:** [https://www.kickstarter.com/](https://www.kickstarter.com/) 
+* **Cap Table:**
+    * **Captable:** [https://www.captable.io/](https://www.captable.io/) 
+    * **Carta:** [https://carta.com/](https://carta.com/) 
+* **Fundraising:**
+    * **Gust:** [https://www.gust.com/](https://www.gust.com/)
+    * **Fundable:** [https://www.fundable.com/](https://www.fundable.com/) 
+* **Seed Funding:**
+    * **Y Combinator:** [https://www.ycombinator.com/](https://www.ycombinator.com/)
+    * **Techstars:** [https://www.techstars.com/](https://www.techstars.com/) 
+
 ### Contribution
 
 We welcome contributions to this repository. If you have resources, links, or insights that would benefit founders, please open an issue or submit a pull request.
@@ -25,26 +45,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 [![Cap Table](https://img.shields.io/badge/Cap%20Table-purple.svg)]() 
 [![Fundraising](https://img.shields.io/badge/Fundraising-red.svg)]() 
 [![Seed Funding](https://img.shields.io/badge/Seed%20Funding-lightblue.svg)]() 
-
-### Links:
-
-* **Venture Capital:** 
-    * **Pitch Deck Experts:** [https://www.pitchdeckexperts.app/](https://www.pitchdeckexperts.app/)
-    * **Crunchbase:** [https://www.crunchbase.com/](https://www.crunchbase.com/)
-    * **CB Insights:** [https://www.cbinsights.com/](https://www.cbinsights.com/)
-* **Startup Funding:**
-    * **AngelList:** [https://angel.co/](https://angel.co/)
-    * **SeedInvest:** [https://www.seedinvest.com/](https://www.seedinvest.com/)
-    * **Kickstarter:** [https://www.kickstarter.com/](https://www.kickstarter.com/) 
-* **Investor Relations:**
-    * **Investor Relations Institute:** [https://www.irinstitute.org/](https://www.irinstitute.org/)
-    * **Investor Relations Magazine:** [https://www.investorrelationsmagazine.com/](https://www.investorrelationsmagazine.com/)
-* **Cap Table:**
-    * **Captable:** [https://www.captable.io/](https://www.captable.io/) 
-    * **Carta:** [https://carta.com/](https://carta.com/) 
-* **Fundraising:**
-    * **Gust:** [https://www.gust.com/](https://www.gust.com/)
-    * **Fundable:** [https://www.fundable.com/](https://www.fundable.com/) 
-* **Seed Funding:**
-    * **Y Combinator:** [https://www.ycombinator.com/](https://www.ycombinator.com/)
-    * **Techstars:** [https://www.techstars.com/](https://www.techstars.com/) 
